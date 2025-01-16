@@ -11,7 +11,7 @@ tags:
 
 Name | description
 -----|-----
-dan  | fun
+dan  | pain
 ben  | silly
 
 # Here is a sub heading
