@@ -1,10 +1,9 @@
-...
+---
 title: welcome
 tags:
 - tag1
 - tag2
-...
-
+---
 
 # Hello my name is Ethan 
 * List Item 1
@@ -19,3 +18,4 @@ ben  | silly
 
 1. step 1
 2. step 2
+
